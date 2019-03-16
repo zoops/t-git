@@ -7,3 +7,4 @@ def
 
 ## 판다스와 seaborn 
 
+## kaggle
